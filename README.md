@@ -30,4 +30,4 @@ asdfakjsdf
 ~~~
 
 
-![logo de la UCO](https://cordobacofradiera.files.wordpress.com/2013/12/logo-uco.jpg?w=300)
+![logo de la UCO](https://cordobacofiera.files.wordpress.com/2013/12/logo-uco.jpg?w=300)
