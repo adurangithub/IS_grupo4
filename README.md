@@ -1,3 +1,1 @@
-# IS_grupo4
-
-ejemplo de readme
+**este texto va en negrita**
